@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Sample GeideaGo"
 include ':app'
+include ':madaapp2app'
